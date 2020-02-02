@@ -1,0 +1,7 @@
+services:
+  ecshomework:
+    build:
+      context: C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework
+      dockerfile: EcsHomework/Dockerfile
+    image: ecshomework
+version: '3.4'
