@@ -76,7 +76,8 @@ namespace EcsHomework.StepDefinitions
             arraysPage.CompleteAnswers(answers, userName);
 
             arraysPage.SubmitAnswersButton.Click();
-
+            
+            System.Threading.Thread.Sleep(3000);
             Assert.AreEqual("Congratulations you have succeeded. Please submit your challenge ✅", arraysPage.SubmissionMessage.Text.ToString());
 
         }
