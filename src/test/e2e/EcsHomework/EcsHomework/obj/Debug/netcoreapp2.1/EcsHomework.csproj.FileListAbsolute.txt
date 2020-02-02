@@ -1,0 +1,15 @@
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\bin\Debug\netcoreapp2.1\EcsHomework.deps.json
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\bin\Debug\netcoreapp2.1\EcsHomework.runtimeconfig.json
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\bin\Debug\netcoreapp2.1\EcsHomework.runtimeconfig.dev.json
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\bin\Debug\netcoreapp2.1\EcsHomework.dll
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\bin\Debug\netcoreapp2.1\EcsHomework.pdb
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\obj\Debug\netcoreapp2.1\EcsHomework.csproj.CoreCompileInputs.cache
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\obj\Debug\netcoreapp2.1\EcsHomework.AssemblyInfoInputs.cache
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\obj\Debug\netcoreapp2.1\EcsHomework.AssemblyInfo.cs
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\obj\Debug\netcoreapp2.1\EcsHomework.dll
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\obj\Debug\netcoreapp2.1\EcsHomework.pdb
+C:\Users\adamh\Source\Repos\qa-tech-test\src\test\e2e\EcsHomework\EcsHomework\obj\Debug\netcoreapp2.1\EcsHomework.csprojAssemblyReference.cache
