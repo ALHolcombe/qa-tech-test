@@ -30,7 +30,6 @@ namespace EcsHomework.StepDefinitions
         public void WhenIClickTheRenderChallengeButton()
         {
             var homePage = new HomePage();
-
             homePage.GoToRender();
         }
 
@@ -38,7 +37,6 @@ namespace EcsHomework.StepDefinitions
         public void ThenIMTakenToTheArraysChallengePage()
         {
             var welcomePageTitle = new ArraysPage().GetPageName();
-
             Assert.AreEqual("Arrays Challenge", welcomePageTitle, "Cannot find Arrays Challenge page title");
 
         }
